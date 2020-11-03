@@ -1,6 +1,7 @@
 #ifndef
 #define
 struct deque;
+struct link;
 
 void deque_insert_front(struct deque*, void* item);
 void deque_insert_last(struct deque*, void* item);
