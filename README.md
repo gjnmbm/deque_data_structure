@@ -1,1 +1,3 @@
-# deque_data_structure
+# Deque Data Structure
+
+A deque using dynamic arrays as the underlying interface.
